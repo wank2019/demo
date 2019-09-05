@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world
+=======
+hello  java
+>>>>>>> 331698a9200a38eca73c5a1cd782711b8ffcc3ab
